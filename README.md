@@ -1,2 +1,3 @@
 # Piano-Virtual
-Piano Virtual, tive problemas com os arquivos de audio, não consegui arrumar...
+Piano Virtual feito em parceria com a dio
+
